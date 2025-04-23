@@ -11,6 +11,6 @@ In package.json:
 npm install --save-dev gh-pages
 
 in vite.config.js:
-base: '/250417react/'
+base: '/blog_in_React/'
 
 npm run deploy
