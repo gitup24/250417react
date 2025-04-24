@@ -1,6 +1,6 @@
 {
   "name": "250417react",
-  "private": true,
+  "namepage": "https://gitup24.github.io/250417react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
